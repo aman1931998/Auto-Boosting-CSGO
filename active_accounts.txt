@@ -1,0 +1,10 @@
+<steamID1> <SteamAccountName1> <Password1>
+<steamID2> <SteamAccountName2> <Password2>
+.
+.
+.
+.
+.
+.
+.
+<steamID10> <SteamAccountName10> <Password10>
