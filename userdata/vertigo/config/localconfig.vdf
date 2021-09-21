@@ -1,0 +1,159 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"0"
+		"FirstTimeComplete"		"1"
+		"MaxKbps"		"3500"
+		"OutputWidth"		"1920"
+		"OutputHeight"		"1080"
+		"EncoderSetting"		"0"
+		"IncludeDesktop"		"0"
+		"RecordSystemAudio"		"0"
+		"RecordMic"		"0"
+		"ShowDebugInfo"		"0"
+		"ShowReminder"		"0"
+		"ShowChat"		"0"
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"0"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{7c4f619e-c664-4ea0-bf19-e2b8f236c07f}"
+		"DefaultAudioDeviceName"		"VG240Y V (2- NVIDIA High Definition Audio)"
+		"P2PScope"		"2"
+		"ClientConfig"		"900102"
+	}
+	"friends"
+	{
+		"1152761122"
+		{
+			"NameHistory"
+			{
+				"0"		"funny715alluring7187"
+			}
+			"name"		"funny715alluring7187"
+		}
+		"PersonaName"		"funny715alluring7187"
+		"communitypreferences"		"0801100118002000280130013800"
+		"Notifications_ShowIngame"		"1"
+		"Notifications_ShowOnline"		"0"
+		"Notifications_ShowMessage"		"0"
+		"Notifications_EventsAndAnnouncements"		"0"
+		"Sounds_PlayIngame"		"0"
+		"Sounds_PlayOnline"		"0"
+		"Sounds_PlayMessage"		"0"
+		"Sounds_EventsAndAnnouncements"		"0"
+		"ChatFlashMode"		"2"
+		"DoNotDisturb"		"0"
+		"SignIntoFriends"		"0"
+	}
+	"apptickets"
+	{
+		"7"		"320000000400000022bdb5440100100107000000e21db07a0189a8c000000000cdd390604d83ac60010000000000000000006fa8b8560716d86153c6e2f205d5b0f7e69d2596c8ea4f9bdf67881e5c7dc23e18e6e35867d7a784819a182875a7bfd34f4c8e660674a541f29d43faafb153b6368f4218bac6cfba5e5cfd85de43054df14e22996c26dfacc2d2e75915e0ef5d341aa8d0bcff85e773610de1e90b0b4f960457f6b93a05f4c1495c8d6299a626"
+		"730"		"320000000400000022bdb54401001001da020000e21db07a0189a8c000000000cdd390604d83ac6001001aa10400000000000d0de840a54ae47fa6e3f5c03112f7548e00c376097697abe928d4837d7e55abaeb7f62546fec03e7b9f6f13a8a2de830a621cfd9cfdbf7a1299274d20ce1d51cbff7eb14e965240c6238daf70fde0fab09327ec98949ba78ca551e5f2223f675a6a871ddb04c8a87b5cf6c1dab8b650ee661eda85e8451db8455aa641144b28"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"0922bdb544000000004800"
+		"Signature"		"2f83607aa28346cf720a950d87046cb79957ad302b30208250adb876dc93dc6b70d69a2035f85388e064dfd509d22d1d5e19d172749a01241953a6894e156f1be3691feff630ac14b09a80fa989fced4c545419038f54f54d14b4bec55e419e43d1d0d95b7491365dcabe7ee5f0e317276a66ea7b99c544d17f4f87dc5dfb3ae73c146dd9ac9d769dd01885d0673118059fa252b8648860cf60d72d0b9c1e128cd4ae469826df9f28464ca0e159b980f55d9249256dfd2447b08af33852f3c00f4462667562366278af1758343579928ee000b77f372d3c8a0a8b43f5670a7485e6dcc7f91fa9c056b33b531525c57f416522d198d6f39b914411b952aa69f4e"
+	}
+	"Offline"
+	{
+		"Ticket"		"d3a5fd0c4e364d27ecec90f262115ad30447f23d0749f9e91a46772f8cd34a3806"
+		"Signature"		"5b484276c7cfb5db11678605fbfb9e754b42328bcc520dbf721488e470392b9e53f1b00079cc888148e949382482dbe2bb794f82be22bc3df4e956ee3debfa4fdd21b89ae001e62ddc790935d247827890e86939053d8ff2b883834fb66c0ddb67149211e1e7d2f41b71aed889c6675df0ec1ed9569227cdca4f9eaaa415ba2ba25ea2c4cb2daba34b461f7a8f6d05e2646ee9a835a5d934a29c10a7d73ee14fb640deab4bb587438905afe96368f4814df86a0ae53c991d5d41bded515b6388124ad9cfbcb7e4c89fd98c547d68de709024aa17581c230da11c0b41b4a0969abe7e0ad4a16d0bed6659bc4b2cd75b378b135a2f25025ff1c44f4ce94cf00bb3"
+	}
+	"CloudKey"		"01000000246fabbde43ae165f7a5c21b83bcbbb91d8cb0c5aeb4ab9fad8d56724e66683f51405c57"
+	"CloudKeyCRC"		"-603731780"
+	"SharedAuth"
+	{
+		"id"		"403711181"
+		"AuthData"		"346eede36f59515434253928927690f1763340090416cd5d852d11e3ba3103c9"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"Apps"
+				{
+					"730"
+					{
+						"LastPlayed"		"1620104343"
+						"Playtime"		"3601"
+						"autocloud"
+						{
+							"lastlaunch"		"1620104164"
+							"lastexit"		"1620104342"
+						}
+						"BadgeData"		"020000000800"
+						"DisableUpdatesUntil"		"0"
+						"Playtime2wks"		"166"
+						"LaunchOptions"		""
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1620104081"
+				"PlayerLevel"		"0"
+			}
+		}
+	}
+	"WebStorage"
+	{
+		"UIStoreLocalState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"uncategorized\",false]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":730},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}]}}"
+		"SteamVoiceSettings_1152761122"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":false,\"hasResetOpenMicHotKey\":true}"
+		"CachedCommunityPreferences"		"{\"bBlurAdultContentViolence\":true,\"bBlurAdultContentSex\":true,\"bParenthesizeNicknames\":false}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]}}"
+		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
+		"friendsactivitystore_storage"		"{\"nVersion\":1,\"cachedFriendsAppsActivity\":{\"trending\":[],\"recent_purchases\":[],\"unowned\":[],\"popular\":[],\"dont_forget\":[],\"being_discussed\":[],\"new_to_group\":[],\"returned_to_group\":[],\"active_friend_count\":0},\"rtCachedFriendsAppsActivityTimeStamp\":1620104146.025}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1620071004,\"appids\":[]},\"rgIgnoredApps\":[]}"
+		"CTextFilterStore_strBannedPattern"		"\"\\\\b((ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\\\W*sh(it|ti)s?|d[il]+(ck|kc)\\\\W*(ass|bag|breath|eat|face|flip|head|hole|less|suck|weed)\\\\w*|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k(e?d|e?rs?|[ei]?n+g?|t)|m[aou](d+|t+|th|ht|z)(a|e|er|ir|ur)(c|f)c?[aou]c?k\\\\w*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+(e?d|e?r|[ei]?n+g?)|\\\\w*f[vu]+h*c+[hjvk]*(e?d|e?r|[ei]?n+g?|t)|b+i+a*t+c+h+(e+d|e*r?[sz]+|[ei]?n+g?|y)|\\\\w*f[vu]+c?[xkq]+(e?d|e?r|[ei]?n+g?|t)|p(oo+|u+)s+(a+y+|e+|eh|ey|i+|ie|y+)s*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+|\\\\w*f[vu]+h*q(e?d|e?r|[ei]?n+g?|t)|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k|f[ck]+(e?d|e?r|[ei]?n+g?|t)|fu󠀡󠀡cki󠀡󠀡ng|dumb(f|ph)[vu]+c?[xkq]|c(oc?|aw)k\\\\W*suc?k\\\\w*|d[il]+(ck|kc)(ed|ing)|ph[vu]+h*c+[hjvk]*\\\\w*|son\\\\W*of\\\\W*a\\\\W*bitch|\\\\w*who+re(ed|ing|s)|c(o|ah|aw)c?k(s|ed)|s+h+[ily]+t+[ersy]*|a+ss+\\\\W*w?hole?\\\\w*|ph[vu]+c?[xkq]+\\\\w*|f[vu]+c?[xkq]+\\\\w*|bull+sh+[ily]+t+|god\\\\W*damn?\\\\W*it|уёбищная|god\\\\W*damn?\\\\w*|a+ss+\\\\W*fu\\\\w*|c(o|ah|aw)c?k|d[il]+(ck|kc)|b+i+a*t+c+h+|butt\\\\W*fu\\\\w*|cumm(er|ing)|f[vu]+h*c\\\\w*|f[vu]+h*q\\\\w*|sh+i+[ae]+t+|c+u+n+t+\\\\w*|d+i+c+k+s*|fu‎cking|a+sholes?|sh+e+i+t+|F\\\\.U\\\\.C\\\\.K|chodes?|cumshot|fucking|fu‎ck|shit\\\\w*|shtpost|who+re?|cumbag|sluts?|slutty|twats?|cums?|dafuq|diсk|sh it|coq+|hore|kock|shat|dik|fck|\\\\w*negr[ao]+e?s?\\\\w*|\\\\w*f+u+c+k+\\\\w*|\\\\w*fцск\\\\w*|\\\\w*shіtty\\\\w*|\\\\w*f_uc_k\\\\w*|\\\\w*pussy\\\\w*|n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*|f[ae]y?g+[oeiu]+t+s?|ching\\\\W*chongs?|n󠀡󠀡iggers|re+t+a?r[dt]+s?|towel\\\\W*heads?|pac?k(i|ie|y)|ting\\\\W*tongs?|trann(ie|y)s?|white\\\\W*trash|ni:gg\\\\w*:\\\\w*|chin(c|k)s?|n+i+[gq]+s?|polac?ke?s?|yam\\\\W*yams?|\\\\w*niggas?|chinamans?|neekeris?|nigfhers?|redskins?|beaners?|coolies?|f+a+g+s*|fenians?|gringos?|newfags?|ni gg er|nigga\\\\w*|niggles?|nignogs?|rus+kis?|wiggers?|Ϝaggоt|gypsies|injuns?|jiggas?|nikkas?|wiggas?|\\\\w*fag|coons?|dykes?|fa66ot|fagts?|gooks?|gypos?|homos?|kikes?|spics?|tards?|abos?|fgts?|fаgs|gypsy|japs?|wops?|fagz|fаg|f@g|\\\\w*N󠀡󠀡IGGE󠀡󠀡R\\\\w*|\\\\w*ɴɪɢɢᴇʀ\\\\w*|\\\\w*nіggеr\\\\w*|\\\\w*NÍGGER\\\\w*|\\\\w*n\\\\\\\\\\\\|gger\\\\w*|\\\\w*niggеr\\\\w*|\\\\w*F4GG0T\\\\w*|\\\\w*N1GG3R\\\\w*|\\\\w*nigger\\\\w*|\\\\w*nigg4\\\\w*|\\\\w*niggz\\\\w*)\\\\b\""
+		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(fak(ed|ers?|ing)|fuchsia|fuku)\\\\b)$\""
+		"ChatStorePopupState_1152761122"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"FriendStoreLocalPrefs_1152761122"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+		"EnableGameOverlay"		"0"
+		"EnableSCTenFootOverlayCheckNew"		"0"
+		"DisableLaunchInVR"		"1"
+		"InGameOverlayShortcutKey"		"Shift	KEY_TAB"
+		"InGameOverlayScreenshotNotification"		"0"
+		"InGameOverlayScreenshotPlaySound"		"0"
+		"InGameOverlayScreenshotSaveUncompressed"		"0"
+		"InGameOverlayShowFPSContrast"		"0"
+		"InGameOverlayShowFPSCorner"		"0"
+		"InGameOverlayScreenshotHotKey"		"KEY_NONE"
+		"NetworkingAllowShareIP"		"0"
+		"NavUrlBar"		"0"
+		"displayratesasbits"		"0"
+		"GameOverlayHomePage"		"http://www.google.com"
+	}
+	"News"
+	{
+		"Messages"
+		{
+			"6804339483681175110"		"1"
+		}
+		"NotifyAvailableGames"		"0"
+	}
+	"nettickets"
+	{
+		"730"		"010000004a407f2b4e8db605a4698d669ac3b8e025e975d1ab3ddf1b38c9dc4af8a0f65b5be5d1152fffa43f4152c328efa22ab1bb19e65866f11f54724eacb31f785dd5bd6367a9f20112d13637b8e8e8bc73bc235e9f25d833b18360bbd9f61c77d84495a7733ae06c94cb1ca43818f2619611db8cb90869a991e2cbeeb9cf93d5c442b60f4843959ce53c26445853a162a60c71b3fc68bf9fc08310f56740aecd695c68210d554a3da42f69163f254991ed63bd8c08990776a577cf9f8efff8e45cd77928301f79eb0c3048bce5d8312609b24d566a4065a79b9c4a589db3c8f0c432237a7d771cb18456056ba5a8d54bd46142c40738fa4df5"
+	}
+	"HideSharingNotifications"		"0"
+	"LibraryDisplaySize"		"0"
+	"LibraryLowBandwidthMode"		"1"
+	"LibraryLowPerfMode"		"1"
+	"LibraryDisableCommunityContent"		"1"
+	"LibraryDisplayIconInGameList"		"0"
+	"SteamController_DisableTwoFootNotifications"		"0"
+	"AppInfoChangeNumber"		"11395295"
+	"StartupState.Friends"		"0"
+	"Licenses"
+	{
+		"0"		"01000000404d0b24b526e2066c73c86c574ac082741a0b6e90d80308134f777b9ecbdc5f0bbabd2ecf164f3702871e9cf971f481cb05148914e50147df25df7d47031c7807d97507f16e1ab74251fdb5fd59d0fb45d9e70ab79f01926eef3f8ebb7829988be8f591d10afdb32de4675cbea86e30aee4c66d2c4e4672aba20ecc72d6fcf9c03001ade1d02cfb1b063727c500bf7d63bafc62a5fbfab426c05325fa8622042d7d4f1e3f6af57a40289259dbbc0bd622db26ac2cdeb7e7d8a927f824452170c6fe8c108972396e98297b11dcf655b1788fbea5139b99140396913ed9e234be40be419e4b9b7480a046d98bde3b89df6ad8403760fe03248f288f4d57f96211d118088522feccbe346679a1d31d56fc69df5421ebb9e94be78cd7f6b9d3d7dd3b764f02d65477790f05de56b27e59f02420cd268d602ffbc2171aaa1012b1dfc3e6ec04000808cf78a745"
+		"303386"		"01000000404d0b24b526e2066c73c86c574ac082741a0b6e90d80308134f6dda9acbdc5f0bbabd2ecf164f3702871ebad029cb81cb05148914e50147df25df7d47031c7807d97507f16e1ab74251fdb5fd59d0fb45d9e70ab79f01926eef3f8ebb7829988be8f591d10afdb32de4675cbea86e30aee4c66d2c4e4672aba20ecc72d6fcf9c03001ade1d02cfb1b063727c500f63105d4fb69b79c89b426c251719da0351f2b7b49080e7cd270244d9259dbbe67bd2dd72bba27d9abe3c4d943f82545233fb3df9e0ca544700825be82a6d19a75ab789abb941ab995090ef9f53ed9e236f72c9e5b9e5e9e4185994ae180e221e0ab6ad8403532993f24962c947c5edb6e0cdc776c8522feceec535a79b8d70663f950d36c2ad7a3803fe78cd7f1f8b7f5db2b60681ee95e721cd5d5a2027f2f41579302ae18987629ced12410a81c169ffe8aa2ec04063aed0308a36b9897"
+	}
+}
