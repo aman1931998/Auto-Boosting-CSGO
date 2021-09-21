@@ -1,0 +1,26 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SteamDefaultDialog"		"#app_games"
+				"ShowScreenshotManager"		"0"
+				"FriendsUI"
+				{
+					"FriendsUIJSON"		"{\"bNotifications_ShowIngame\":true,\"bNotifications_ShowOnline\":false,\"bNotifications_ShowMessage\":false,\"bNotifications_EventsAndAnnouncements\":false,\"bSounds_PlayIngame\":false,\"bSounds_PlayOnline\":false,\"bSounds_PlayMessage\":false,\"bSounds_EventsAndAnnouncements\":false,\"bAlwaysNewChatWindow\":false,\"bForceAlphabeticFriendSorting\":false,\"nChatFlashMode\":2,\"bRememberOpenChats\":false,\"bCompactQuickAccess\":false,\"bCompactFriendsList\":false,\"bNotifications_ShowChatRoomNotification\":false,\"bSounds_PlayChatRoomNotification\":false,\"bHideOfflineFriendsInTagGroups\":false,\"bHideCategorizedFriends\":false,\"bCategorizeInGameFriendsByGame\":false,\"nChatFontSize\":2,\"b24HourClock\":false,\"bDoNotDisturbMode\":false,\"bDisableEmbedInlining\":false,\"bSignIntoFriends\":false,\"bDisableSpellcheck\":false,\"bDisableRoomEffects\":false,\"bAnimatedAvatars\":false,\"featuresEnabled\":{\"DoNotDisturb\":1,\"LoaderWindowSynchronization\":1,\"NonFriendMessageHandling\":1,\"NewVoiceHotKeyState\":1,\"PersonaNotifications\":1,\"ServerVirtualizedMemberLists\":1,\"SteamworksChatAPI\":1}}"
+				}
+			}
+		}
+	}
+	"JSClientStorage"
+	{
+		"spotlight.review.730"
+		{
+			"rgPromptDismissals"		"1"
+			"bWasAskedToRevise"		"0"
+		}
+	}
+}
