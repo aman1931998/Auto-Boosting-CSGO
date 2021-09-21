@@ -1,0 +1,1 @@
+--clear_old_instance 0 --after_launch_timeout 110 --launch_timeout 1 --untrusted False --map_name agency --match_output winlose --winner lower --winner_score 16 3 --current_score 0 0
